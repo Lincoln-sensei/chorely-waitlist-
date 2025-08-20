@@ -1,1 +1,101 @@
-# chorely-waitlist-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chorely Waitlist</title>
+  <style>
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: #f9fafb;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 24px;
+    }
+    .container {
+      max-width: 420px;
+      width: 100%;
+      background: #fff;
+      padding: 24px;
+      border-radius: 16px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    h2 { margin-top: 0; }
+    iframe {
+      width: 100%;
+      border: none;
+      margin-top: 12px;
+    }
+    .footer {
+      margin-top: 16px;
+      font-size: 0.9rem;
+      color: #6B7280;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Join the Chorely Waitlist</h2>
+    <p>Enter your email below to be the first to try Chorely — the fun, family-friendly chore-to-reward app.</p>
+    
+    <!-- Fixed embed iframe -->
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScHz_wxq8oZj0xHcQ-azw8QlmgqvyeN0-VxlnC2MfhVByOWtw/viewform?embedded=true" 
+      width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    
+    <div class="footer">We’ll only send updates about launch and nothing more.</div>
+  </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chorely Waitlist</title>
+  <style>
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: #f9fafb;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 24px;
+    }
+    .container {
+      max-width: 420px;
+      width: 100%;
+      background: #fff;
+      padding: 24px;
+      border-radius: 16px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    h2 { margin-top: 0; }
+    iframe {
+      width: 100%;
+      border: none;
+      margin-top: 12px;
+    }
+    .footer {
+      margin-top: 16px;
+      font-size: 0.9rem;
+      color: #6B7280;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Join the Chorely Waitlist</h2>
+    <p>Enter your email below to be the first to try Chorely — the fun, family-friendly chore-to-reward app.</p>
+    
+    <!-- Fixed embed iframe -->
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScHz_wxq8oZj0xHcQ-azw8QlmgqvyeN0-VxlnC2MfhVByOWtw/viewform?embedded=true" 
+      width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    
+    <div class="footer">We’ll only send updates about launch and nothing more.</div>
+  </div>
+</body>
+</html>
